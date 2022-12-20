@@ -46,7 +46,7 @@
     "assume-sinon": "^1.1.0",
     "eslint": "^8.7.0",
     "eslint-config-godaddy": "^6.0.0",
-    "eslint-config-next": "^12.1.0",
+    "eslint-config-next": "^13.0.0",
     "eslint-plugin-json": "^3.1.0",
     "eslint-plugin-mocha": "^10.0.3",
     "eslint-plugin-unicorn": "^44.0.0",
